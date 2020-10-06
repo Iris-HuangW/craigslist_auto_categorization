@@ -48,6 +48,8 @@ In this project, we first collected data from categorized posts, then we build p
 3. Model Training
 * Text mining[Text_Analysis.py]
 * Image recognition using pretrained VGG16, VGG19 models [Unstructured_Final_Project_Image_Classification.py]
+* https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG16
+* https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG19
 
 4. Tested on ad posts in "General" category
 
