@@ -31,15 +31,6 @@ The objective of the project is to deploy NLP approches including text mining an
 Craigslist users are not able to identify categories of ad posts under "General" category, which are in the flexible and unstructured format. This problem led to reduced views and lower user satisfaction. In order to resolve this problem and improve user experience and product engineering of craigslist, we proposed to develop an automatic categorization feature by deploying NLP approches.
 In this project, we first collected data from categorized posts, then we build predictive/NLP model on collected text and image data. Eventually, we used the model to implement auto-categorization function.
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
-
 ## Getting Started
 
 1. Scraped ad posts data from "For Sale" in Chicago using Scrapy framework in Python [craigslist_auto_categorization/spiders/data.py] (Repo folder containing data processing scripts/notebooks)
